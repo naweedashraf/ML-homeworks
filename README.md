@@ -3,4 +3,5 @@
 <h2>List of homeworks:</h2>
 <ul>
 <li><a href="https://github.com/naweedashraf/ML-homeworks/tree/main/1">#1: probability</a></li>
+<li><a href="https://github.com/naweedashraf/ML-homeworks/tree/main/2">#2: regression</a></li>
 </ul>
